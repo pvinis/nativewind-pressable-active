@@ -1,0 +1,19 @@
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/preflight.css" layer(base);
+@import "tailwindcss/utilities.css";
+
+@import "nativewind/theme";
+
+@theme {
+	--color-goldenrod-50: #fff9ebff;
+	--color-goldenrod-100: #feeec7ff;
+	--color-goldenrod-200: #fddc8aff;
+	--color-goldenrod-300: #fcc34dff;
+	--color-goldenrod-400: #fba81aff;
+	--color-goldenrod-500: #f5890bff;
+	--color-goldenrod-600: #d96406ff;
+	--color-goldenrod-700: #b44409ff;
+	--color-goldenrod-800: #92340eff;
+	--color-goldenrod-900: #782c0fff;
+	--color-goldenrod-950: #451403ff;
+}
