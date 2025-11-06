@@ -5,6 +5,9 @@ bun install
 bun dev
 bun ios
 ```
+
+Look in the `Button.tsx` file.
+
 ## How it looks
 <img width="822" height="852" alt="screenshot-2025-11-06-17 53 32@2x" src="https://github.com/user-attachments/assets/0651eedb-c40d-463e-a54c-013f890925b1" />
 
